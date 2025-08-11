@@ -1,8 +1,23 @@
-# imt2200_actividad1
+# 📊 IMT2200 - Actividad 01
 
-#### Daniela Cerda - 21.748490-1
+**Nombre:** Daniela Cerda  
+**RUT:** 21.748.490-1  
 
+---
 
-## Cosas implementadas:
+## ✏️ Descripción
 
-### Se realizó la actividad 1 de imt2200, se cambió lo necesario y se corrieron las celdas en el notebook de jupyter. Posteriormente se crearon los archivos necesarios (el repositorio y las carpetas), para proceder a subir la actividad.
+Se realizó la **Actividad 1** del curso **IMT2200**, modificando lo necesario y ejecutando las celdas en el notebook de Jupyter.  
+Posteriormente, se crearon los archivos y carpetas requeridos, así como el repositorio personal, para finalmente subir la actividad.
+
+---
+
+## 📂 Contenido del repositorio
+
+- 📓 Notebook de Jupyter con el desarrollo de la actividad.  
+- 🗺️ Imagen del mapa generado con el respectivo nombre.  
+- 📁 Carpetas y archivos de datos requeridos.  
+
+---
+
+✅ **Actividad lista para la entrega**
